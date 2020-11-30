@@ -1,5 +1,5 @@
 # RitchEducate
-Simple online exam portal.<br>
+A simple online exam portal.<br>
 http://online-exam-portal-ritchiepulikottil.epizy.com<br>
 Currently under development. Open to suggestions, ideas, and contributions!<br>
 Email: ritchiepulikottil1005@gmail.com<br>
