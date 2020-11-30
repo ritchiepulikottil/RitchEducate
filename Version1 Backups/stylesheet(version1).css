@@ -1,0 +1,53 @@
+body{
+	position: relative;
+}
+
+#content{
+	margin-top: 60px;
+	margin-left: 50px;
+}
+
+
+.main-frame{
+	margin-top: 130px;
+	padding: 30px;
+}
+.login{
+	margin-top: 130px;
+	background-color: rgba(0,0,0,0.2);
+	width:430px;
+	height:470px;
+}
+
+h1,h3,a{
+	color:white;
+}
+
+
+*{
+  border-radius: 0 !important;
+}
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+span{
+	background-color:black;
+	
+}
+
+/* Add some content at the bottom of the video/page */
+.content {
+  position: fixed;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+}
+
+
