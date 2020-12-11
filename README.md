@@ -1,6 +1,6 @@
 # RitchEducate
 A simple online exam portal📚<br>
-http://online-exam-portal-ritchiepulikottil.epizy.com<br>
+https://ritcheducate-online-exam-portal.000webhostapp.com/<br>
 Currently under development🚧<br>
 Open to suggestions, ideas, and contributions✨<br>
 📧 ritchiepulikottil1005@gmail.com<br>
